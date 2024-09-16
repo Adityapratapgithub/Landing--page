@@ -1,2 +1,5 @@
-# Landing--page
-A simple website having similar homepage that of Landing using HTML and CSS
+# Zomato Landing Page 10622
+
+This is a basic web development project built with HTML and CSS.
+
+This is New Setup Branch
